@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Repositories-Finder/static/css/main.e02e644e.css",
-    "main.js": "/Repositories-Finder/static/js/main.79ebc39e.js",
-    "static/js/787.7dfb3d0b.chunk.js": "/Repositories-Finder/static/js/787.7dfb3d0b.chunk.js",
-    "index.html": "/Repositories-Finder/index.html",
-    "main.e02e644e.css.map": "/Repositories-Finder/static/css/main.e02e644e.css.map",
-    "main.79ebc39e.js.map": "/Repositories-Finder/static/js/main.79ebc39e.js.map",
-    "787.7dfb3d0b.chunk.js.map": "/Repositories-Finder/static/js/787.7dfb3d0b.chunk.js.map"
+    "main.css": "/repositories-finder/static/css/main.e02e644e.css",
+    "main.js": "/repositories-finder/static/js/main.c74a16b4.js",
+    "static/js/787.7dfb3d0b.chunk.js": "/repositories-finder/static/js/787.7dfb3d0b.chunk.js",
+    "index.html": "/repositories-finder/index.html",
+    "main.e02e644e.css.map": "/repositories-finder/static/css/main.e02e644e.css.map",
+    "main.c74a16b4.js.map": "/repositories-finder/static/js/main.c74a16b4.js.map",
+    "787.7dfb3d0b.chunk.js.map": "/repositories-finder/static/js/787.7dfb3d0b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e02e644e.css",
-    "static/js/main.79ebc39e.js"
+    "static/js/main.c74a16b4.js"
   ]
 }
